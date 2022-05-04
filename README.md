@@ -7,7 +7,7 @@ Some Of My Work:
 
 https://khcdc.com/ Diagonstic Center Management System-Billing With Web (UI Design)
 
-https://bdjobdaily.com/ Job News Portal (Collect Data Automatic)
+https://bdjobdaily.xyz/ Job News Portal (Collect Data Automatic)
 
 https://kemonphone.com/ Mobile Price Website (Collect Data Automatic)
 
